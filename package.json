@@ -5,7 +5,5 @@
   "dependencies": {
     "node": "10.3.0"
   }
-  "scripts": {
-  "start"; "node template.js"
-}
+  "start": "node template.js"
 }
