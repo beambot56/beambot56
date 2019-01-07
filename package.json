@@ -1,1 +1,1 @@
-herokucreate myapp --buildpack heroku/nodejs
+herokucreatemyapp --buildpack heroku/nodejs
