@@ -5,5 +5,3 @@
   "dependencies": {
     "node": "10.3.0"
   }
-  "start": "node template.js"
-}
