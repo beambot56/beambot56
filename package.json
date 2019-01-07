@@ -1,7 +1,8 @@
 {
   "name": "beambot",
-  "description": "template",
+  "description": "yeet",
   "version": "0.4.0",
   "engines": {
     "node": "10.3.0"
   }
+}
